@@ -1,4 +1,4 @@
-package Q3_TDD;
+package Question3TDD;
 
 import static org.junit.jupiter.api.Assertions.*;
  
