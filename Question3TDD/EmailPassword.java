@@ -1,4 +1,4 @@
-package Q3_TDD;
+package Question3TDD;
 
 public class EmailPassword {
 
